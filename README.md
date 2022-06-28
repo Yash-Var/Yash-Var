@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yash Varshney
 - 👀 I’m interested in Web-D and Flutter 
 - 🌱 I’m currently learning Web-D
-- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me ...
 
 <!---
