@@ -49,5 +49,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Yash%20Varshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/yash-varshney-7b81ab1b1/)](https://www.linkedin.com/in/yash-varshney-7b81ab1b1/)
 [![Instagram Badge](https://img.shields.io/badge/-Yash%20Varshney-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/varshney.yash7055/)](https://www.instagram.com/varshney.yash7055/)
 [![Gmail Badge](https://img.shields.io/badge/-yashvarshney7011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashvarshney7011@gmail.com)](mailto:yashvarshney7011@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Yash%20Varshney-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Yashvar7055)](https://twitter.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Yash%20Varshney-darkred?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Yashvar7055)](https://twitter.com/Yashvar7055)
 
