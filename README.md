@@ -1,4 +1,4 @@
-<h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Yash Varshney </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yash+Varshney+and+Welcome+to+my+Profile👋" align="middle" alt="Hey, I'm Yash Varshney and Welcome to my Profile 👋 animated typed out" width="100%"/>
 <h3 align="center">A Developer from India 🇮🇳 </h3>
 
 <p align="center">
